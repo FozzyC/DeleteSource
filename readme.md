@@ -5,8 +5,8 @@ Useful when exporting Raw -> JPEG to reduce disk usage - Allows for in-place con
 
 ## Getting Started
 
-Open plugin manmager and add the plugin folder. 
-In the export window add the Export and Remove Source Post-Process action
+Open plugin manager and add the plugin folder from this repository. 
+In the export window add the "Export and Remove Source" Post-Process action
 Click the checkbox to enable the removal of source files. Note that source files are not moved to trash, so cannot be recovered. 
 
-Don't forget to syncronize your lightroom catalog afterwards.
+Don't forget to syncronize your lightroom catalog afterwards so removed files are cleared from catalog.
